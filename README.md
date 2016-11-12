@@ -1,4 +1,4 @@
 # hello-world
 my first repositry
 hey fellow coders!
-m rather new to coding but i am looking forward to working hard and learn it all!!
+i am new to the world of programming and i am still trying to learn.
